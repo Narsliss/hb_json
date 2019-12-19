@@ -1,0 +1,14 @@
+{
+  "courses": [
+    22,
+    23,
+    24
+  ],
+  "accommodations": [
+    21,
+    22,
+    23
+  ],
+  "pricing_top": "This is the text for the pricing on the top",
+  "pricing_bottom": "This is the text for the pricing on the bottom"
+}
